@@ -1,0 +1,1891 @@
+1:"$Sreact.fragment"
+3:I[45872,["/dreamfactory-site/_next/static/chunks/0d59b396f16d319e.js"],"Header"]
+4:I[39756,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+5:I[37457,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+6:I[22016,["/dreamfactory-site/_next/static/chunks/0d59b396f16d319e.js"],""]
+14:I[68027,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+:HL["/dreamfactory-site/_next/static/chunks/13c363189e21caba.css","style"]
+2:T436,{"@context":"https://schema.org","@type":"Organization","name":"DreamFactory","url":"https://www.dreamfactory.com","logo":"https://www.dreamfactory.com/images/logos/dreamfactory-logo.svg","description":"A secure, self-hosted enterprise data access platform that provides governed API access to any data source.","founder":{"@type":"Person","name":"Terence Bennett","jobTitle":"CEO","url":"https://www.dreamfactory.com/about"},"author":{"@type":"Person","name":"Terence Bennett","url":"https://www.dreamfactory.com/about"},"address":{"@type":"PostalAddress","streetAddress":"5940 S Rainbow Blvd, Ste 400 #30292","addressLocality":"Las Vegas","addressRegion":"NV","postalCode":"89118","addressCountry":"US"},"contactPoint":{"@type":"ContactPoint","telephone":"+1-415-993-5877","contactType":"sales","availableLanguage":"English"},"sameAs":["https://github.com/dreamfactorysoftware/dreamfactory","https://www.linkedin.com/company/dreamfactory-software","https://twitter.com/dfsoftwareinc","https://www.facebook.com/dfsoftwareinc/","https://www.youtube.com/c/dreamfactorysoftware"]}0:{"P":null,"b":"uFuFDP-cf8JHvoX02Ejj3","c":["","hub","mcp-security-insurance"],"q":"","i":false,"f":[[["",{"children":["hub",{"children":[["slug","mcp-security-insurance","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/dreamfactory-site/_next/static/chunks/13c363189e21caba.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/dreamfactory-site/_next/static/chunks/0d59b396f16d319e.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-df-navy text-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16","children":[["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mb-12","children":[[["$","div","Features",{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mb-4","children":"Features"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Features",{"children":["$","$L6",null,{"href":"/features","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Features"}]}],["$","li","Self Hosted",{"children":["$","$L6",null,{"href":"/features#self","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Self Hosted"}]}],["$","li","API Generation",{"children":["$","$L6",null,{"href":"/features#api","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"API Generation"}]}],"$L7","$L8","$L9"]}]]}],"$La","$Lb","$Lc"],"$Ld"]}],"$Le"]}]}],"$Lf"]}]}]]}],{"children":["$L10",{"children":["$L11",{"children":["$L12",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L13",false]],"m":"$undefined","G":["$14",[]],"S":true}
+15:I[57197,["/dreamfactory-site/_next/static/chunks/0d59b396f16d319e.js"],"Scripts"]
+17:I[97367,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[97367,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+1c:I[97367,["/dreamfactory-site/_next/static/chunks/ff1a16fafef87110.js","/dreamfactory-site/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+7:["$","li","Security",{"children":["$","$L6",null,{"href":"/features#secure","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Security"}]}]
+8:["$","li","Customization",{"children":["$","$L6",null,{"href":"/features#custom","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Customization"}]}]
+9:["$","li","Pricing",{"children":["$","$L6",null,{"href":"/pricing","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Pricing"}]}]
+a:["$","div","Installers",{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mb-4","children":"Installers"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Linux",{"children":["$","$L6",null,{"href":"/features#installer","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Linux"}]}],["$","li","Docker",{"children":["$","$L6",null,{"href":"/features#installer","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Docker"}]}],["$","li","Kubernetes",{"children":["$","$L6",null,{"href":"/features#installer","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Kubernetes"}]}]]}]]}]
+b:["$","div","API Resources",{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mb-4","children":"API Resources"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Documentation",{"children":["$","$L6",null,{"href":"https://wiki.dreamfactory.com","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Documentation"}]}],["$","li","Case Studies",{"children":["$","$L6",null,{"href":"/stories","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Case Studies"}]}],["$","li","Academy",{"children":["$","$L6",null,{"href":"https://academy.dreamfactory.com","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Academy"}]}],["$","li","API Calculator",{"children":["$","$L6",null,{"href":"https://calculator.dreamfactory.com","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"API Calculator"}]}],["$","li","Open Source",{"children":["$","$L6",null,{"href":"https://github.com/dreamfactorysoftware/dreamfactory","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Open Source"}]}]]}]]}]
+c:["$","div","Company",{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mb-4","children":"Company"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Blog",{"children":["$","$L6",null,{"href":"/blog","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Blog"}]}],["$","li","Hub",{"children":["$","$L6",null,{"href":"/hub","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Hub"}]}],["$","li","About Us",{"children":["$","$L6",null,{"href":"/about","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"About Us"}]}],["$","li","Partners",{"children":["$","$L6",null,{"href":"/partners","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Partners"}]}],["$","li","Support",{"children":["$","$L6",null,{"href":"/support","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Support"}]}],["$","li","Connectors",{"children":["$","$L6",null,{"href":"/connectors","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Connectors"}]}],["$","li","Contact Us",{"children":["$","$L6",null,{"href":"/about","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Contact Us"}]}]]}]]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mb-4","children":"Legal"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","Terms of Use",{"children":["$","$L6",null,{"href":"/terms-of-use","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Terms of Use"}]}],["$","li","Privacy Policy",{"children":["$","$L6",null,{"href":"/privacy-policy","className":"text-sm text-df-gray-300 hover:text-white transition-colors","children":"Privacy Policy"}]}]]}],["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-gray-400 mt-6 mb-4","children":"Contact"}],["$","p",null,{"className":"text-sm text-df-gray-300","children":"+1 (415) 993-5877"}],["$","p",null,{"className":"text-xs text-df-gray-400 mt-1","children":"Mon-Fri 9-5 PT"}]]}]
+e:["$","div",null,{"className":"border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4","children":[["$","$L6","GitHub",{"href":"https://github.com/dreamfactorysoftware/dreamfactory","className":"text-df-gray-400 hover:text-white transition-colors text-sm","target":"_blank","rel":"noopener noreferrer","children":"GitHub"}],["$","$L6","Facebook",{"href":"https://www.facebook.com/dfsoftwareinc/","className":"text-df-gray-400 hover:text-white transition-colors text-sm","target":"_blank","rel":"noopener noreferrer","children":"Facebook"}],["$","$L6","X",{"href":"https://twitter.com/dfsoftwareinc","className":"text-df-gray-400 hover:text-white transition-colors text-sm","target":"_blank","rel":"noopener noreferrer","children":"X"}],["$","$L6","LinkedIn",{"href":"https://www.linkedin.com/company/dreamfactory-software","className":"text-df-gray-400 hover:text-white transition-colors text-sm","target":"_blank","rel":"noopener noreferrer","children":"LinkedIn"}],["$","$L6","YouTube",{"href":"https://www.youtube.com/c/dreamfactorysoftware","className":"text-df-gray-400 hover:text-white transition-colors text-sm","target":"_blank","rel":"noopener noreferrer","children":"YouTube"}]]}],["$","p",null,{"className":"text-sm text-df-gray-400","children":["© ",2026," DreamFactory Software, Inc. All rights reserved."]}]]}]
+f:["$","$L15",null,{}]
+10:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L16",null,["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+13:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],null]}]
+1e:T156b1,
+![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6995786b8dfd3e2d5bfff026_MCP%20Security%20for%20Insurance.jpg)
+
+                # MCP Security for Insurance
+
+                
+                  
+                    
+                      [
+                          ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/694a59d03634e3633832a117_image%20195.png)
+
+                            Terence Bennett
+                          
+                        ](/hub-author/terence-bennett)
+                    
+                  
+                  
+
+                    - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                    - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                  
+
+                
+                
+                  
+                    
+                  
+                  ## **Key Takeaways**
+
+                  
+
+                    - **Model Context Protocol (MCP) is transitioning from experimental to production-critical infrastructure in insurance.** [SURE reports beta partners](https://www.sureapp.com/press/sure-launches-insurance-industrys-first-model-context-protocol-mcp-capability-enabling-ai-agents-to-quote-bind-and-service-policies) achieving 95% faster quote-to-bind times and 80% reduced customer service response times, making secure implementation essential for competitive positioning.
+
+                    - **Self-hosted API platforms eliminate the data sovereignty risks that cloud-only MCP solutions create.** Regulated insurers, government agencies, and enterprises requiring air-gapped deployments need on-premises control over policyholder data, claims records, and MCP infrastructure.
+
+                    - **Configuration-driven API generation outperforms manual MCP security implementations.** When insurance databases evolve, platforms that update APIs automatically through configuration changes avoid the maintenance burden that custom-coded solutions accumulate.
+
+                    - **Built-in security controls address the **[**12-category threat taxonomy**](https://www.coalitionforsecureai.org/securing-the-ai-agent-revolution-a-practical-guide-to-mcp-security/)** specific to AI agent deployments.** Prompt injection prevention, token exchange protocols, and granular role-based access control protect against attack vectors that traditional API security overlooks.
+
+                    - **Legacy system modernization through API exposure avoids costly replacement projects.** Insurance companies can connect AI agents to existing policy administration and claims systems without expensive infrastructure overhauls.
+
+                  
+
+                  Insurance companies face an uncomfortable reality in 2026: AI agents are accessing core systems faster than security teams can evaluate the risks. MCP has become the standardized protocol enabling these agents to interact with policy databases, claims processing systems, and customer records, but the security implications extend far beyond traditional API protection.
+
+                  The challenge isn&#x27;t whether to deploy MCP-enabled AI. The challenge is implementing security controls that satisfy regulators, protect policyholders, and prevent the data breaches that devastate insurance brands. [DreamFactory&#x27;s security features](https://www.dreamfactory.com/features) address this gap by providing enterprise-grade authentication, role-based access control, and comprehensive audit logging through configuration rather than custom development, capabilities that position insurers to adopt AI safely while maintaining compliance.
+
+                  This guide examines the security architecture insurance companies need for MCP deployments, the compliance requirements that govern AI agent access to regulated data, and why self-hosted API platforms deliver the control that cloud alternatives cannot match.
+
+                  
+                    
+                  
+                  ## **Fortifying Assurance Insurance with Robust API Security for 2026**
+
+                  Data sovereignty has shifted from preference to requirement for insurance providers. When AI agents access policyholder information, claims histories, and underwriting data, the infrastructure hosting those interactions determines regulatory exposure. Cloud-hosted MCP solutions create jurisdictional complexity that self-hosted platforms eliminate entirely.
+
+                  ### **The Evolving Landscape of Assurance Insurance Security**
+
+                  Insurance security in 2026 operates under constraints that previous years didn&#x27;t impose. AI agents autonomously file claims, request documents, update status, and trigger payments (as illustrated by [Allianz&#x27;s MCP capability scenarios](https://tech.allianz.com/en/who-we-are/tech-blog/article-detail-01211111.html)) without human intervention. This automation demands security architectures that verify every request, authorize every tool call, and audit every action.
+
+                  The attack surface has expanded accordingly. Some [MCP security assessments](https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/) report elevated rates of issues such as command injection and data-exfiltration paths; figures vary by sample and methodology, but Docker&#x27;s analysis highlights concerning prevalence across implementations. For insurers handling protected health information and financial records, these vulnerabilities represent unacceptable exposure.
+
+                  ### **Why Data Sovereignty is Paramount for Insurance Providers**
+
+                  Regulated insurance data cannot traverse infrastructure outside organizational control. HIPAA requirements, state insurance department mandates, and NAIC model laws impose strict boundaries on where policyholder information resides and who accesses it.
+
+                  Self-hosted API platforms address these requirements directly:
+
+                  
+
+                    - **On-premises deployment:** MCP infrastructure runs within corporate data centers, never touching third-party cloud services
+
+                    - **Air-gapped operation:** Maximum security environments operate without internet connectivity
+
+                    - **Complete audit trails:** All AI agent interactions log to systems under organizational control
+
+                    - **Jurisdiction certainty:** Data never leaves approved geographic boundaries
+
+                  
+
+                  DreamFactory operates exclusively as self-hosted software, running on-premises, in customer-managed clouds, or in air-gapped environments. For insurance companies where data sovereignty determines compliance status, this architecture removes cloud-hosted uncertainty.
+
+                  
+                    
+                  
+                  ## **Addressing the &#x27;MCP Lookup&#x27; Challenge: Secure Data Access for Regulated Insurance**
+
+                  When AI agents need to retrieve policyholder records, claims status, or coverage details, they perform MCP lookups against backend databases. These queries require security controls that traditional database access patterns don&#x27;t provide, controls that prevent AI manipulation, enforce least-privilege access, and maintain auditable records.
+
+                  ### **Streamlining MCP Data Retrieval with Zero-Code APIs**
+
+                  Insurance databases contain the information AI agents need, but exposing that data securely requires more than basic API endpoints. [Enterprise security controls](https://docs.dreamfactory.com/security/authenticating-your-apis/) must authenticate every request, authorize access at the field level, and prevent the prompt injection attacks that can manipulate AI behavior.
+
+                  Production-ready implementations require:
+
+                  
+
+                    - **OAuth 2.0 authentication:** The widely deployed authorization standard (organizations should also consider aligning with OAuth 2.1 draft guidance where appropriate), with token exchange patterns as recommended by CoSAI to avoid credential passthrough
+
+                    - **Granular RBAC:** Restricting AI agents to specific operations (GetPolicy, UpdateAddress) while blocking unauthorized actions (ModifyPremium, ProcessPayment)
+
+                    - **Input validation:** JSON schema enforcement and pattern scanning that block malicious instructions embedded in query parameters
+
+                    - **Complete logging:** Mapping every lookup to user, timestamp, and accessed resources for compliance reporting
+
+                  
+
+                  DreamFactory&#x27;s [role-based access control](https://docs.dreamfactory.com/Security/role-based-access) provides this granularity through administrative configuration. Security teams define which AI agents access which tables and fields without writing custom authorization logic.
+
+                  ### **Ensuring Compliance in Sensitive Data Lookups**
+
+                  The [NAIC Model Law 668](https://content.naic.org/sites/default/files/model-law-668.pdf) (Insurance Data Security Model Law) requires insurers to protect consumer nonpublic information through documented access controls. MCP lookups that bypass these controls, or fail to log access for examination purposes, create regulatory violations that state insurance departments penalize.
+
+                  Compliant MCP security implementations must address varying retention requirements: NAIC Model Law 668 includes 5-year retention for certain records, and HIPAA requires 6-year documentation retention. Implementations should also include immutable access records and real-time alerting when lookup patterns indicate potential abuse. These requirements exceed what DIY MCP implementations typically provide.
+
+                  
+                    
+                  
+                  ## **Cyber Liability Insurance and Beyond: Mitigating Risk with Private API Platforms**
+
+                  The irony isn&#x27;t lost on insurance executives: companies that underwrite cyber liability policies face the same data breach risks they evaluate in clients. MCP deployments expand the attack surface unless security architectures specifically address AI-related threats.
+
+                  ### **Reducing Cyber Insurance Premiums Through Proactive Security**
+
+                  Underwriters evaluating cyber liability applications look for specific controls. Organizations demonstrating strong API security, including authentication, encryption, access logging, and vulnerability management, qualify for lower premiums than those with basic protections.
+
+                  Self-hosted MCP infrastructure strengthens this position by eliminating third-party cloud exposure. When all AI agent interactions occur within organizational boundaries, the attack vectors that trigger cyber claims diminish substantially.
+
+                  ### **The Role of Self-Hosted APIs in Minimizing Cyber Risk**
+
+                  The CVE-2025-6514 vulnerability affecting MCP implementations demonstrates why supply chain security matters. This critical remote code execution flaw affected the **mcp-remote** package; [Docker notes](https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/) approximately 558,846 downloads (not environments), a risk that on-premises platforms with controlled dependencies avoid.
+
+                  Self-hosted deployment provides:
+
+                  
+
+                    - **Dependency control:** Organizations approve and scan all packages before deployment
+
+                    - **Network isolation:** MCP servers operate within private networks inaccessible from public internet
+
+                    - **Immediate patching:** Security teams apply fixes on their schedule without waiting for vendor updates
+
+                    - **Cryptographic verification:** Signed container images and code authentication prevent tampering
+
+                  
+
+                  DreamFactory&#x27;s [security architecture](https://www.dreamfactory.com/resources/whitepapers/security-guide) embeds these protections through platform design, reducing the custom security work that manual implementations require.
+
+                  
+                    
+                  
+                  ## **Practical Cybersecurity Insurance for Small and Medium Insurance Businesses**
+
+                  Enterprise security budgets don&#x27;t scale down proportionally for smaller insurers. SMBs face the same regulatory requirements and threat landscape as large carriers but with constrained resources for custom security development.
+
+                  ### **Making Enterprise-Grade Security Accessible for SMBs**
+
+                  Smaller insurance operations need platforms that provide enterprise security through configuration rather than construction. Building OAuth integration, role-based access, audit logging, and prompt injection prevention from scratch exceeds what limited IT teams can accomplish.
+
+                  The economic reality favors platforms that bundle these capabilities:
+
+                  
+
+                    - **DF Linux Lite** at [$1500/month](https://www.dreamfactory.com/pricing) provides RBAC, API key management, and scripting for SMBs building basic RESTful APIs
+
+                    - **Built-in SQL injection prevention** eliminates a vulnerability class that custom implementations frequently miss
+
+                    - **Auto-generated documentation** removes the maintenance burden of keeping API specs current
+
+                    - **Configuration-based security** allows business users to establish access rules without developer involvement
+
+                  
+
+                  For insurance agencies and regional carriers, this approach delivers protection that would otherwise require security engineering expertise they don&#x27;t employ.
+
+                  
+                    
+                  
+                  ## **Implementing Robust Risk Management Processes with Audit-Ready APIs**
+
+                  Insurance regulators conduct examinations that require organizations to demonstrate control over data access. AI agents interacting with policyholder records through MCP create audit requirements that traditional systems didn&#x27;t anticipate.
+
+                  ### **Automating Risk Visibility Through Comprehensive API Logging**
+
+                  Effective risk management requires visibility into every AI agent action. When claims processing AI accesses fraud detection models, blacklists, and third-party verification services, each interaction must log to systems that support compliance reporting.
+
+                  Comprehensive logging implementations capture:
+
+                  
+
+                    - Authentication attempts, both successful and failed
+
+                    - Every data access with timestamp, user ID, and resource URI
+
+                    - Tool invocations with arguments and results
+
+                    - Configuration changes to MCP servers
+
+                    - Security events including prompt injection attempts and rate limit violations
+
+                  
+
+                  DreamFactory&#x27;s logging capabilities integrate with enterprise SIEM platforms, providing the observability that risk management processes require without custom development.
+
+                  ### **Integrating Risk Controls into API Workflows**
+
+                  [Server-side scripting](https://docs.dreamfactory.com/api-generation-and-connections/api-types/scripting/scripted-services-and-endpoints) extends automated API generation with custom risk controls. Pre-processing scripts validate inputs against business rules before database operations execute. Post-processing scripts filter responses based on user context, ensuring customers see only their own data.
+
+                  This capability bridges the gap between fully automated generation and legitimate custom requirements, organizations get maintenance cost reduction while retaining flexibility for specific risk controls.
+
+                  
+                    
+                  
+                  ## **Enhancing Risk Management in Finance: Protecting Insurance Data End-to-End**
+
+                  Financial services within insurance, including premium collection, claims payments, and investor portals, require security controls that satisfy both insurance regulators and financial compliance frameworks.
+
+                  ### **Securing Financial Transactions and Investor Portals with APIs**
+
+                  The [D.A. Davidson implementation](https://www.dreamfactory.com/stories/dadavidson) demonstrates how DreamFactory enables real-time financial data updates through scalable REST APIs. According to DreamFactory&#x27;s case study, the investor portal revitalization improved performance and reliability while maintaining the security controls that financial services demand.
+
+                  For insurance companies managing premium payments and claims disbursements, similar patterns apply:
+
+                  
+
+                    - **Multi-factor authentication** for high-value operations
+
+                    - **Row-level security** ensuring customers access only their own financial records
+
+                    - **Complete audit trails** supporting SOX and PCI DSS compliance
+
+                    - **Rate limiting** preventing abuse through request throttling
+
+                  
+
+                  ### **Beyond Compliance: Proactive Financial Data Protection**
+
+                  Reactive security, waiting for breaches before implementing controls, creates unacceptable exposure for insurance financial data. Organizations implementing MCP need proactive architectures that assume AI agents can be manipulated and build defenses accordingly.
+
+                  The [CoSAI threat taxonomy](https://www.coalitionforsecureai.org/securing-the-ai-agent-revolution-a-practical-guide-to-mcp-security/) identifies 12 categories spanning nearly 40 distinct threats specific to AI agent deployments. Insurance companies protecting financial data should treat this framework as a security requirements baseline.
+
+                  
+                    
+                  
+                  ## **Zero-Code API Creation for Rapid Deployment in Insurance IT**
+
+                  Insurance IT departments operate under competing pressures: business units demand rapid API delivery while security teams require thorough review. Traditional development timelines measured in months cannot satisfy either constituency.
+
+                  ### **Accelerating API Initiatives for Competitive Advantage**
+
+                  DreamFactory provides production-ready APIs in 5 minutes average time, a dramatic reduction from the weeks or months that manual development consumes. This speed enables insurance companies to connect AI agents to core systems before competitors establish market position.
+
+                  The acceleration comes from configuration-driven generation:
+
+                  
+
+                    - **Schema introspection:** The platform reads database structures automatically
+
+                    - **Instant endpoint creation:** REST APIs appear immediately for discovered tables and stored procedures
+
+                    - **Live documentation:** Swagger specs generate without manual authoring
+
+                    - **Built-in security:** Authentication and authorization configure through administrative interfaces
+
+                  
+
+                  For insurance IT teams, this approach frees developers from routine API work for differentiated projects that create competitive advantage.
+
+                  ### **Reducing Technical Debt in Insurance IT Environments**
+
+                  Code-generated APIs accumulate technical debt as databases evolve. Each schema change requires code regeneration, review, and redeployment. Configuration-driven platforms eliminate this maintenance burden: add a column to a policy table, and the API immediately includes it.
+
+                  EMC Insurance demonstrated this advantage when migrating 130 SQL views to approximately 1,000 dbt models in about four weeks. For insurance companies managing decades of accumulated database complexity, this efficiency translates directly to reduced operational costs.
+
+                  
+                    
+                  
+                  ## **From Legacy SOAP to Modern REST: Streamlining Insurance Data Exchange**
+
+                  Insurance technology stacks frequently include SOAP-based services that predate modern API standards. Partner integrations, regulatory reporting systems, and internal applications depend on these services, but AI agents expect REST interfaces.
+
+                  ### **Bridging the Gap Between Legacy and Cloud-Native Insurance Apps**
+
+                  DreamFactory&#x27;s [SOAP-to-REST conversion](https://www.dreamfactory.com/connectors/soap-to-rest) can convert SOAP services to REST and secure them with RBAC. WSDL parsing and scripting workflows occur through configuration rather than custom development; deeper SOAP security requirements (e.g., WS-Security) should be validated per implementation.
+
+                  The [Vermont Agency of Transportation](https://www.dreamfactory.com/stories/vermont-agency-of-transportation) implementation demonstrates this pattern in practice, connecting 1970s-era systems with modern databases through secure REST APIs, enabling modernization roadmaps without replacing core infrastructure.
+
+                  For insurance companies maintaining legacy policy administration systems, this capability provides AI agents with modern interfaces to existing data without the risk of "rip and replace" projects.
+
+                  
+                    
+                  
+                  ## **Protecting Sensitive Data: Granular Access Control for MCP Records**
+
+                  Policyholder information, health records, and claims histories require protection beyond basic authentication. AI agents need access to perform their functions, but that access must enforce the principle of least privilege at every level.
+
+                  ### **Implementing Data Minimization with Field-Level Security**
+
+                  DreamFactory&#x27;s [enterprise security controls](https://docs.dreamfactory.com/Security/role-based-access) operate at service, endpoint, table, and field levels. A customer service AI agent might access policyholder names and addresses while being blocked from viewing payment information or medical records.
+
+                  This granularity prevents the data exposure that occurs when AI agents receive broader access than their functions require:
+
+                  
+
+                    - **Service-level restrictions:** Which AI agents can access which systems
+
+                    - **Endpoint-level controls:** Which operations each agent can perform
+
+                    - **Table-level permissions:** Which data entities each agent can query
+
+                    - **Field-level masking:** Which specific columns appear in responses
+
+                  
+
+                  ### **Ensuring Auditability for Every Data Access Request**
+
+                  [TrueFoundry&#x27;s security integration](https://www.truefoundry.com/blog/mcp-server-security-best-practices) emphasizes schema-driven validation and runtime security, capabilities that DreamFactory provides through built-in controls rather than external platform dependencies. Every MCP interaction logs to systems supporting the applicable retention requirements (6 years under HIPAA, 5 years under NAIC Model Law 668), creating the audit trails that state insurance department examinations demand.
+
+                  
+                    
+                  
+                  ## **Building Secure Data Products for the Insurance Sector**
+
+                  Insurance companies increasingly recognize data as a strategic asset. Building products around that data, including partner integrations, customer portals, and regulatory feeds, requires managed API catalogs with consistent security controls.
+
+                  ### **Empowering Internal and External Consumers with Managed APIs**
+
+                  DreamFactory&#x27;s Data Mesh capability merges data from multiple disparate databases into single API responses. Insurance companies operating separate systems for policy administration, claims, billing, and customer service can present unified views without complex ETL processes.
+
+                  Auto-generated Swagger documentation ensures that consumers, whether internal development teams or external partners, can discover and integrate with available APIs without manual specification maintenance.
+
+                  For organizations building data products around insurance operations, this architecture delivers the governance, documentation, and security controls that sustainable API programs require.
+
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69511364314b11e3dd8ec2ee_5aaa877a4b1fe84764e7ad4664406d5319e10a9f.png)
+
+                      
+                        ### Meet Terence
+
+                        Terence is the CEO of DreamFactory Software. Previously, he was the Director of Operations at DreamFactory Software. Before joining DreamFactory, led operations at TeamPassword, was a member of Google RedTeam, and served as a U.S. Navy Officer during Operation Iraqi Freedom.
+
+                        
+                          
+
+                            - [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/69511847c050ca8a232bcba4_facebook.svg)
+
+](#)
+
+                            - [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/6951184f251f9ab52de83245_twitter.svg)
+
+](#)
+
+                            - [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/6951185ac106b34fd4b4b724_youtube.svg)
+
+](#)
+
+                            - [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/695118c5f038a061ddd09cb0_Frame.svg)
+
+](https://www.linkedin.com/in/terencehbennett/)
+
+                          
+
+                        
+                      
+                    
+                  
+                
+              
+              
+              
+                ### Featured posts
+
+                
+                  
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699ec3a1fe2588dce3fe3ab4_Enterprise%20Data%20Access%20for%20Copilots.jpg)
+
+                        
+                          #### Enterprise Data Access for Copilots
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 25, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-copilots)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699eb24ebded52b359a60ccd_Enterprise%20Data%20Access%20for%20Virtual%20Assistants.jpg)
+
+                        
+                          #### Enterprise Data Access for Virtual Assistants
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-virtual-assistants)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699eaf9caa07fc408daf6932_Enterprise%20Data%20Access%20for%20Knowledge%20Bases.jpg)
+
+                        
+                          #### Enterprise Data Access for Knowledge Bases
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-knowledge-bases)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699ead17efe7d1a9904093f9_Enterprise%20Data%20Access%20for%20RAG%20Systems.jpg)
+
+                        
+                          #### Enterprise Data Access for RAG Systems
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-rag-systems)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699ea920a454333a7103cb86_Enterprise%20Data%20Access%20for%20Data%20Summarization.jpg)
+
+                        
+                          #### Enterprise Data Access for Data Summarization
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-data-summarization)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699ea68ff14d3883cfe0943a_Enterprise%20Data%20Access%20for%20LLM%20Applications.jpg)
+
+                        
+                          #### Enterprise Data Access for LLM Applications
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-llm-applications)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699e7eeadf37870dc801fed4_Enterprise%20Data%20Access%20for%20Chatbots.jpg)
+
+                        
+                          #### Enterprise Data Access for Chatbots
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 24, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-chatbots)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699e7cbcd6987530747c4798_Enterprise%20Data%20Access%20for%20AI%20Agents.jpg)
+
+                        
+                          #### Enterprise Data Access for AI Agents
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 25, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-access-ai-agents)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6995cac4f2c3614e9ab5f0d7_MCP%20Security%20for%20Education.jpg)
+
+                        
+                          #### MCP Security for Education
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-education)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69957bdc93062e4dc2c4a8d7_MCP%20Security%20for%20Retail.jpg)
+
+                        
+                          #### MCP Security for Retail
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-retail)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6995786b8dfd3e2d5bfff026_MCP%20Security%20for%20Insurance.jpg)
+
+                        
+                          #### MCP Security for Insurance
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-insurance)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699572081d47015cede6bb07_MCP%20Security%20for%20Manufacturing.jpg)
+
+                        
+                          #### MCP Security for Manufacturing
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-manufacturing)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69956e6bbd4c075bdd8b91f4_MCP%20Security%20for%20Government.jpg)
+
+                        
+                          #### MCP Security for Government
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-government)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69956b5a674a38425f35c2c6_MCP%20Security%20for%20Healthcare.jpg)
+
+                        
+                          #### MCP Security for Healthcare
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-healthcare)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/699567e57b21f88d72ced939_MCP%20Security%20for%20Financial%20Services.jpg)
+
+                        
+                          #### MCP Security for Financial Services
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-financial-services)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6995633f33a5b998221c1ea4_MCP%20Security%20for%20Enterprise%20Companies.jpg)
+
+                        
+                          #### MCP Security for Enterprise Companies
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 17, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mcp-security-enterprise-companies)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698ca237384bd6094b539fdd_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20SQL%20Server%20to%20Connect%20LLMs%20to%20Data.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for SQL Server to Connect LLMs to Data
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-sql-server-to-connect-llms-to-data)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c9f2946882970b79328fb_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20DB2%20Mainframe%20Data.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for DB2 Mainframe Data
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-db2-mainframe-data)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c9bff6ad5349eb8a3b4b6_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Snowflake%20to%20Power%20AI%20Analytics.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Snowflake to Power AI Analytics
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-snowflake-to-power-ai-analytics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c97cd974a746c999b3465_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20MongoDB%20for%20AI%20Agent%20Tooling.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for MongoDB for AI Agent Tooling
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-mongodb-for-ai-agent-tooling)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c921efd4b23d239d389d2_40%20Developer%20Productivity%20with%20API%20Tools%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 40 Developer Productivity with API Tools Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/developer-productivity-api-tools-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c934b65d1837d835c2c13_27%20API%20Cost%20Reduction%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 27 API Cost Reduction Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-cost-reduction-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/698c8c626792a508dfb60b74_35%20Big%20Data%20API%20Integration%20Statistics%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 35 Big Data API Integration Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 11, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/big-data-api-integration-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983d7acea445d2d0c4cf6a1_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20PostgreSQL%20with%20Role-Based%20Access%20Control.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for PostgreSQL with Role-Based Access Control
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-postgresql-role-based-access-control)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983d4d11747906eea0e4dd3_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20MySQL%20Without%20Writing%20Custom%20APIs.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for MySQL Without Writing Custom APIs
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-mysql-without-writing-custom-apis)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983d1382ef71a1088cc56fb_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Oracle%20with%20Secure%20AI%20Access.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Oracle with Secure AI Access
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-oracle-secure-ai-access)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983cdd87bd772e1e24a78ef_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20SQL%20Server%20in%20Enterprise%20Environments.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for SQL Server in Enterprise Environments
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-sql-server-legacy-databases)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983c9e07c3b84540670d7cb_32%20Mobile%20Backend%20API%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 32 Mobile Backend API Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/mobile-backend-api-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983c7ff51a5c6e0f8cc2da9_27%20API%20Monitoring%20and%20Logging%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 27 API Monitoring and Logging Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-monitoring-and-logging-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983c42ae7895a1c3b338019_32%20Open-Source%20API%20Platform%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 32 Open-Source API Platform Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/open-source-api-platform-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6983c034a3767bca028cce85_27%20Hybrid%20API%20Deployment%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 27 Hybrid API Deployment Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+February 4, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/hybrid-api-deployment-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697b050f8711c8d6ac0c242a_32%20API%20Governance%20Trends%20Every%20Enterprise%20Must%20Track%20for%202026.jpg)
+
+                        
+                          #### 32 API Governance Trends Every Enterprise Must Track for 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 28, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-governance-trends)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697b03240ed6e8d73c88bbf5_38%20REST%20API%20Performance%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 38 REST API Performance Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 28, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/rest-api-performance-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697b004039317b0037f68b9e_37%20Enterprise%20Data%20Integration%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 37 Enterprise Data Integration Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 28, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-data-integration-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697afd56183d345982bef05f_41%20Custom%20API%20Scripting%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 41 Custom API Scripting Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 28, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/custom-api-scripting-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69716dd7e6f06ae7ef74d5ae_How%20to%20Connect%20MySQL%20to%20a%20Customer%20Portal%20with%20a%20Secure%20REST%20API%20Layer%20%E2%80%93%202026.jpg)
+
+                        
+                          #### How to Connect MySQL to a Customer Portal with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/connect-mysql-to-customer-portal)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69716c1c3e5dd4c254ff5de6_How%20to%20Connect%20Oracle%20to%20Power%20BI%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect Oracle to Power BI with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/connect-oracle-to-power-bi)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697169ac134aad5f63287dc6_How%20to%20Connect%20SQL%20Server%20to%20Power%20BI%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect SQL Server to Power BI with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/connect-sql-server-to-power-bi)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697166ddac7eed86cc751dba_How%20to%20Connect%20Snowflake%20to%20Tableau%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect Snowflake to Tableau with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/connect-snowflake-to-tableau)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697116c13bd98220beb0050b_46%20Secure%20API%20Endpoint%20Statistics%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 46 Secure API Endpoint Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/secure-api-endpoint-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69711492bdf182710c067092_25%20Legacy%20Database%20Modernization%20Trends%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 25 Legacy Database Modernization Trends Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/legacy-database-modernization-trends)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/697111548e1c73df70b2d1be_45%20API%20Rate%20Limiting%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 45 API Rate Limiting Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-rate-limiting-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69710f5857234b5f412dce98_41%20GenAI%20API%20Integration%20Statistics%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 41 GenAI API Integration Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 21, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/genai-api-integration-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/696762821ae3aa19fa0b7c03_50%20Database%20Connectivity%20in%20API%20Platforms%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 50 Database Connectivity in API Platforms Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/database-connectivity-api-platforms-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69675f260133ab99118fdd60_50%20API%20Key%20Management%20Trends%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 50 API Key Management Trends Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-key-management-trends)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/6967515406a6d9e6e61f6f3b_45%20RBAC%20Implementation%20Statistics%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 45 RBAC Implementation Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/rbac-implementation-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69674ee35173fc611a47cb7a_43%20API%20Documentation%20Automation%20Statistics%20%E2%80%93%202026.jpg)
+
+                        
+                          #### 43 API Documentation Automation Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-documentation-automation-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69674c8f225b3551e35e1601_45%20SOAP%20to%20REST%20Conversion%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 45 SOAP to REST Conversion Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/soap-to-rest-conversion-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69674923af921a81a32a7796_27%20On-Premises%20API%20Management%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 27 On-Premises API Management Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 13, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/on-premises-api-management-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/696744b4bbdfbebe7d6b82c7_27%20API%20Automation%20Trends%20for%20Developers%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 27 API Automation Trends for Developers Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 14, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-automation-trends-for-developers)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f1a80c0bb086b5d112fd4_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Legacy%20Databases.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Legacy Databases
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-legacy-databases)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f17456ef737d4568c7637_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Db2%20for%20i%20(IBM%20iAS400).jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Db2 for i (IBM i/AS400)
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-db2)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f1556814985357e7033e2_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Snowflake.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Snowflake
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-snowflake)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f11c9bfe98c32f9e1ad3f_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20MongoDB.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for MongoDB
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-mongodb)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f0e718e6fb8ad395c9eaa_50%20Low-Code%20API%20Development%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 50 Low-Code API Development Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/low-code-api-development-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f0c4c942b85697f76fe55_40%20OAuth%20Integration%20in%20API%20Platforms%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 40 OAuth Integration in API Platforms Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/oauth-integration-api-platforms-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f0a0ba831137c44b952c1_48%20Server-Side%20Scripting%20in%20APIs%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 48 Server-Side Scripting in APIs Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/server-side-scripting-apis-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695f0852fe5fa4b03e0ee937_40%20Enterprise%20API%20Security%20Statistics%20Every%20Organization%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 40 Enterprise API Security Statistics Every Organization Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 7, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/enterprise-api-security-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695e11a641e9af32eeaa2633_How%20to%20Connect%20Snowflake%20to%20Power%20BI%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect Snowflake to Power BI with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/connect-snowflake-to-power-bi)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695e0efc7f60c09084f16924_How%20to%20Connect%20PostgreSQL%20to%20HubSpot%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect PostgreSQL to HubSpot with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/connect-postgresql-to-hubspot)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695e0b26f751d88c5fbc0816_How%20to%20Connect%20MySQL%20to%20HubSpot%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect MySQL to HubSpot with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/connect-mysql-to-hubspot)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695e099062d9ea4d1d9b857e_How%20to%20Connect%20Oracle%20to%20Salesforce%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect Oracle to Salesforce with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/connect-oracle-to-salesforce)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695e073c2b4bc7cb77e2a05d_How%20to%20Connect%20SQL%20Server%20to%20Salesforce%20with%20a%20Secure%20REST%20API%20Layer.jpg)
+
+                        
+                          #### How to Connect SQL Server to Salesforce with a Secure REST API Layer
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/connect-sql-server-to-salesforce)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695df91cc6c08bbfcb547346_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20PostgreSQL.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for PostgreSQL
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-postgresql)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695df762f61292ae5deb24d0_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20MySQL.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for MySQL
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-mysql)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695df32b48631efffd498b30_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20Oracle%20Databases.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for Oracle Databases
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-oracle-databases)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695deef65e8543447a8acca7_How%20to%20Set%20Up%20an%20MCP%20Server%20for%20SQL%20Server.jpg)
+
+                        
+                          #### How to Set Up an MCP Server for SQL Server
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Education
+
+                          
+
+                        
+                      ](/hub/set-up-mcp-server-for-sql-server)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695ddec95637bb157bf29ca0_50%20API%20Lifecycle%20Management%20Trends%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 50 API Lifecycle Management Trends Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-lifecycle-management-trends)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695ddb8f30fa0f78478b0c98_30%20NoSQL%20API%20Management%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 30 NoSQL API Management Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/nosql-api-management-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695dd9fb5881f6947f8af6c7_40%20SQL%20Database%20API%20Generation%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 40 SQL Database API Generation Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Finance
+
+                          
+
+                        
+                      ](/hub/sql-database-api-generation-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695dd3f636db179e91aa3e81_25%20API%20Security%20Trends%202026%20Statistics%20Every%20Enterprise%20Must%20Know.jpg)
+
+                        
+                          #### 25 API Security Trends 2026: Statistics Every Enterprise Must Know
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/api-security-trends-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695dd1fb5881f6947f89f943_34%20Role-Based%20Access%20Control%20in%20APIs%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 34 Role-Based Access Control in APIs Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/role-based-access-control-apis-statistics)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/695dcd8624ea6d06501b6ef6_44%20Legacy%20System%20Modernization%20Statistics%20Every%20Enterprise%20Should%20Know%20in%202026.jpg)
+
+                        
+                          #### 44 Legacy System Modernization Statistics Every Enterprise Should Know in 2026
+
+                          
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5d76fa7ea2133bd76366_calendar.svg)
+
+January 6, 2026
+
+                            - ![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbae0/694a5e59f6d28247ae355b6d_category.svg)
+
+Technology
+
+                          
+
+                        
+                      ](/hub/legacy-system-modernization-statistics)
+                  
+                
+              
+              
+              
+                ### Explore more by category
+
+                
+                  
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69550def038701e94472e827_pedro-kummel-Ekfr1mRpo1w-unsplash.jpg)
+
+                        #### Travel
+
+                      ](/hub-category/hub-category-travel)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69550406896e4bd82dd46080_fujiphilm-_tb3TATBk0w-unsplash.jpg)
+
+                        #### Education
+
+                      ](/hub-category/hub-category-education)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69550def038701e94472e827_pedro-kummel-Ekfr1mRpo1w-unsplash.jpg)
+
+                        #### Finance
+
+                      ](/hub-category/hub-category-finance)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69550e140e2220e5b1a7a2f0_matthew-stephenson-MAWZnwY0V1k-unsplash.jpg)
+
+                        #### Health
+
+                      ](/hub-category/hub-category-health)
+                    [![](https://cdn.prod.website-files.com/64ed8da8a866be7a702fbafb/69550e1db89a3c2927a84d15_doncoombez-8gpYbJ199_M-unsplash.jpg)
+
+                        #### Technology
+
+                      ](/hub-category/hub-category-technology)
+                  
+                
+              
+            
+          
+        
+      
+      
+        
+          
+            ## Frequently Asked Questions
+
+            
+            
+              
+                
+                  ### What authentication methods does DreamFactory support for insurance MCP deployments requiring SAML or Active Directory integration?
+
+                  
+                    DreamFactory supports comprehensive authentication options including [multiple enterprise authentication options](https://www.dreamfactory.com/features) including OAuth, SAML, LDAP, and Active Directory, all configured through administrative interfaces rather than custom development. For insurance companies with existing identity providers, this means MCP security inherits established authentication infrastructure. JWT handling enables stateless authentication that supports horizontal scaling, while API key management provides programmatic access for automated systems. The platform&#x27;s authentication layer supports enterprise SSO requirements without requiring organizations to build custom identity integration.
+
+                  
+                
+                
+                  ### How does DreamFactory handle compliance documentation for state insurance department examinations?
+
+                  
+                    The platform&#x27;s audit logging capabilities record all API access with timestamps, user identification, and accessed resources, data required for insurance regulatory examinations. Logs integrate with enterprise SIEM platforms for centralized monitoring and support the retention periods that NAIC Model Law 668 and state-specific regulations mandate. Organizations can generate compliance reports from logged data without maintaining separate documentation systems. For examinations requiring demonstration of access controls, the platform&#x27;s RBAC configuration provides exportable evidence of implemented restrictions.
+
+                  
+                
+                
+                  ### What deployment options exist for insurance companies requiring both cloud flexibility and on-premises control?
+
+                  
+                    DreamFactory supports Kubernetes deployment through Helm charts, Docker containerization, traditional Linux installation, and cloud marketplace presence in AWS, Azure, and Google Cloud, all while maintaining customer infrastructure control. Insurance companies can deploy in private cloud environments that satisfy data residency requirements while leveraging cloud scalability. Air-gapped deployment options serve maximum security environments where internet connectivity creates unacceptable risk. The consistent platform behavior across deployment models means security configurations transfer between environments without reconfiguration.
+
+                  
+                
+                
+                  ### Can DreamFactory protect against prompt injection attacks targeting insurance AI agents?
+
+                  
+                    The platform&#x27;s server-side scripting engine enables input validation that blocks malicious instructions before they reach databases or downstream systems. Pre-processing scripts can scan for Unicode obfuscation patterns, enforce JSON schema compliance, and reject requests that match known attack signatures. This validation layer operates within DreamFactory&#x27;s security context, subject to the same RBAC controls that govern all platform operations. For insurance deployments where prompt injection could manipulate claims processing or underwriting decisions, this capability provides defense-in-depth beyond what basic API security offers.
+
+                  
+                
+                
+                  ### How quickly can insurance companies implement production MCP security using DreamFactory?
+
+                  
+                    Enterprise MCP security implementations typically require significant time for pilot deployment. DreamFactory accelerates the API generation component dramatically. Database connections configure in minutes, security rules apply through administrative interfaces, and documentation generates automatically. The timeline acceleration comes from eliminating custom development: organizations configure rather than build. For insurance companies balancing security requirements against competitive pressure to deploy AI capabilities, this speed advantage translates to months of earlier market entry.
+16:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.dreamfactory.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Resource Hub\",\"item\":\"https://www.dreamfactory.com/hub\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"DreamFactory [ LIVE ]\",\"item\":\"https://www.dreamfactory.com/hub/mcp-security-insurance\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"DreamFactory [ LIVE ]\",\"description\":\"\",\"datePublished\":\"2026-02-26\",\"dateModified\":\"2026-02-26\",\"author\":{\"@type\":\"Person\",\"name\":\"DreamFactory\",\"url\":\"https://www.dreamfactory.com/authors/dreamfactory\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"DreamFactory\",\"url\":\"https://www.dreamfactory.com\"}}"}}],["$","section",null,{"className":"bg-gradient-to-b from-df-light to-white py-16 md:py-24","children":["$","div",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"text-center","children":[["$","span",null,{"className":"text-sm font-semibold uppercase tracking-wider text-df-blue","children":"Resource"}],["$","h1",null,{"className":"mt-3 text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-df-navy","children":"DreamFactory [ LIVE ]"}],["$","div",null,{"className":"mt-6 flex items-center justify-center gap-4 text-sm text-df-gray-500","children":[["$","span",null,{"children":"DreamFactory"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-02-26","children":"February 25, 2026"}]]}]]}]}]}],"$undefined",["$","section",null,{"id":"$undefined","className":"py-16 md:py-24  ","children":["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl","children":["$","div",null,{"className":"prose prose-lg max-w-none prose-headings:text-df-navy prose-a:text-df-blue prose-img:rounded-xl","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1e"}}]}]}]}],"$L1f"]
+1f:["$","section",null,{"id":"$undefined","className":"py-16 md:py-24 bg-df-navy text-white ","children":["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl","children":["$","div",null,{"className":"text-center max-w-2xl mx-auto","children":[["$","h2",null,{"className":"text-3xl font-bold","children":"Ready to get started?"}],["$","p",null,{"className":"mt-4 text-lg text-df-gray-300","children":"Book a free demo and see how DreamFactory can generate REST APIs from your databases in minutes."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-4","children":[["$","$L6",null,{"href":"/demo","className":"inline-flex items-center justify-center font-medium rounded-lg transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-df-blue bg-df-blue text-white hover:bg-df-blue/90 px-8 py-4 text-base ","children":"Book a Demo"}],["$","$L6",null,{"href":"/hub","className":"inline-flex items-center justify-center font-medium rounded-lg transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-df-blue border-2 border-df-blue text-df-blue hover:bg-df-blue hover:text-white px-8 py-4 text-base border-white text-white hover:bg-white hover:text-df-navy","children":"More Resources"}]]}]]}]}]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:null
+1d:[["$","title","0",{"children":"DreamFactory [ LIVE ] — DreamFactory Resource Hub | DreamFactory"}],["$","meta","1",{"name":"robots","content":"index, follow"}],["$","link","2",{"rel":"canonical","href":"https://www.dreamfactory.com/hub/mcp-security-insurance"}],["$","meta","3",{"property":"og:title","content":"DreamFactory [ LIVE ]"}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"property":"article:published_time","content":"2026-02-26"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"DreamFactory [ LIVE ]"}],["$","meta","8",{"name":"twitter:image","content":"https://www.dreamfactory.com/images/og-default.png"}]]

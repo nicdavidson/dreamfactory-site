@@ -1,0 +1,9 @@
+:HL["/dreamfactory-site/_next/static/chunks/13c363189e21caba.css","style"]
+:HL["/images/graphics/homepage-warehouse-diagram.avif","image"]
+:HL["/images/clients/exxon-mobil.svg","image"]
+:HL["/images/clients/deloitte.svg","image"]
+:HL["/images/clients/nih.svg","image"]
+:HL["/images/clients/intel.svg","image"]
+:HL["/images/clients/palo-alto.svg","image"]
+:HL["/images/clients/vermont.svg","image"]
+0:{"buildId":"uFuFDP-cf8JHvoX02Ejj3","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(marketing)","paramType":null,"paramKey":"(marketing)","hasRuntimePrefetch":false,"slots":{"children":{"name":"what-is-dreamfactory","paramType":null,"paramKey":"what-is-dreamfactory","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

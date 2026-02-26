@@ -1,0 +1,46 @@
+# DreamFactory
+
+DreamFactory is a self-hosted API generation platform that creates production-ready REST APIs from any database in minutes. It provides governed API access for enterprise applications and AI agents.
+
+## Main Pages
+
+- [Home](https://www.dreamfactory.com): DreamFactory homepage — governed API access to any data source
+- [Features](https://www.dreamfactory.com/features): Self-hosted API generation, security, and governance features
+- [Pricing](https://www.dreamfactory.com/pricing): DreamFactory pricing plans for teams and enterprises
+- [AI Data Gateway](https://www.dreamfactory.com/ai): Give AI agents governed database access via REST APIs
+- [About](https://www.dreamfactory.com/about): About DreamFactory Software Inc.
+- [Request Demo](https://www.dreamfactory.com/demo): Request a live demo of DreamFactory
+
+## Database Connectors
+
+- [Snowflake](https://www.dreamfactory.com/connectors/snowflake): Generate REST APIs for Snowflake data warehouses
+- [MS SQL Server](https://www.dreamfactory.com/connectors/sql-server): REST API generation for SQL Server databases
+- [PostgreSQL](https://www.dreamfactory.com/connectors/postgresql): REST API generation for PostgreSQL databases
+- [MySQL](https://www.dreamfactory.com/connectors/mysql): REST API generation for MySQL databases
+- [Oracle](https://www.dreamfactory.com/connectors/oracle): REST API generation for Oracle databases
+- [MongoDB](https://www.dreamfactory.com/connectors/mongodb): REST API generation for MongoDB collections
+- [IBM DB2](https://www.dreamfactory.com/connectors/ibm-db2): REST API generation for IBM DB2 databases
+- [Amazon DynamoDB](https://www.dreamfactory.com/connectors/dynamodb): REST API generation for DynamoDB tables
+- [Amazon S3](https://www.dreamfactory.com/connectors/amazon-s3): File management APIs for S3 buckets
+- [All Connectors](https://www.dreamfactory.com/connectors): Full list of 20+ supported database connectors
+
+## Industry Solutions
+
+- [Snowflake Native App](https://www.dreamfactory.com/snowflake): DreamFactory on Snowflake Marketplace
+- [Manufacturing](https://www.dreamfactory.com/manufacturing): API generation for manufacturing data systems
+- [What is DreamFactory](https://www.dreamfactory.com/what-is-dreamfactory): Overview of how DreamFactory works
+
+## Resources
+
+- [Case Studies](https://www.dreamfactory.com/stories): Customer success stories from ExxonMobil, NIH, Deloitte, Intel, and more
+- [Blog](https://www.dreamfactory.com/blog): Technical articles on API generation and enterprise integration
+- [Resource Hub](https://www.dreamfactory.com/hub): Guides, tutorials, and technical resources
+- [Documentation](https://wiki.dreamfactory.com): DreamFactory technical documentation and wiki
+- [GitHub](https://github.com/dreamfactorysoftware/dreamfactory): DreamFactory open-source repository
+
+## Comparisons
+
+- [DreamFactory vs Hasura](https://www.dreamfactory.com/compare/hasura): Feature comparison with Hasura
+- [DreamFactory vs PostgREST](https://www.dreamfactory.com/compare/postgrest): Feature comparison with PostgREST
+- [DreamFactory vs Retool](https://www.dreamfactory.com/compare/retool): Feature comparison with Retool
+- [DreamFactory vs MuleSoft](https://www.dreamfactory.com/compare/mulesoft): Feature comparison with MuleSoft
